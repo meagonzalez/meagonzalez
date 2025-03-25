@@ -1,6 +1,6 @@
 ## 💜 Olá, meu nome é Maria Eduarda (mais conhecida como Duda)!
 
-💬 Sou estudante de informática Biomédica e bolsista no Hospotital de Clínicas de Porto Alegre
+💬 Sou estudante de Informática Biomédica e bolsista no Hospotital de Clínicas de Porto Alegre
 
 ---
 
