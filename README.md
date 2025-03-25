@@ -1,4 +1,4 @@
-## 💜 Olá, meu nome é Maria Eduarda (mais conhecida como Duda)!
+## 💜 Olá, meu nome é Maria Eduarda!
 
 💬 Sou estudante de Informática Biomédica e bolsista no Hospotital de Clínicas de Porto Alegre
 
