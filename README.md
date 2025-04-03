@@ -1,10 +1,10 @@
-## 💜 Olá, meu nome é Maria Eduarda!
+## 💜 Hi, I'm Maria Eduarda!
 
-💬 Sou estudante de Informática Biomédica e bolsista no Hospotital de Clínicas de Porto Alegre
+💬 I'm a Biomedical Informatics student and a Scientific Initiation Scholarship Holder at Hospotital de Clínicas de Porto Alegre
 
 ---
 
-## 🚀 Minhas Skills
+## 🚀 My Skills
 
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" alt="Django"/></code>
