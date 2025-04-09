@@ -1,6 +1,6 @@
 ## 💜 Hi, I'm Maria Eduarda!
 
-💬 I'm a Biomedical Informatics student and a Scientific Initiation Scholarship Holder at Hospotital de Clínicas de Porto Alegre
+💬 I'm a Biomedical Informatics student and a Scientific Initiation Scholarship Holder at Hospital de Clínicas de Porto Alegre
 
 ---
 
